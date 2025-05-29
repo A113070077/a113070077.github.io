@@ -10952,7 +10952,8 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
-  border: 200px solid #ccc}
+  background-color: #0d6efd;
+}
 section.resume-section .resume-section-content {
   width: 100%;
 }
