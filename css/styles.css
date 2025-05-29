@@ -3792,7 +3792,6 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-  background-color: #0d6efd;
 }
 .navbar-nav .show > .nav-link,
 .navbar-nav .nav-link.active {
@@ -10953,7 +10952,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
-}
+  border: 20px solid #fff}
 section.resume-section .resume-section-content {
   width: 100%;
 }
