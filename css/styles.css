@@ -3677,8 +3677,9 @@ textarea.form-control-lg {
 }
 .nav-tabs .dropdown-menu {
   margin-top: calc(-1 * var(--bs-nav-tabs-border-width));
-  border-top-left-radius: 0;
+  border-top-left-radius: 100;
   border-top-right-radius: 0;
+  background-color: #0d6efd;
 }
 
 .nav-pills {
