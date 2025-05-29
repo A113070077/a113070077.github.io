@@ -10952,10 +10952,10 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
-  background-color: #0d6efd;
 }
 section.resume-section .resume-section-content {
   width: 100%;
+  background-color: #0c4128;
 }
 
 @media (min-width: 768px) {
