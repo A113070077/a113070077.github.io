@@ -20,3 +20,14 @@ h1 {
   font-size: 2.3rem;
   font-weight: bold; 
 }
+
+.fa-life {
+  margin: 25px;
+}
+
+.main-bg {
+    background-image: url('../assets/img/008.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
